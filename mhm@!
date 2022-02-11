@@ -35,5 +35,5 @@ game.StarterGui:SetCore("SendNotification", {
     end)
 
     DaHoodSettings.AimLock = false
-    Aiming.ShowFOV = false
-    Aiming.FOV = 23
+    Aiming.ShowFOV = true
+    Aiming.FOV = 40
