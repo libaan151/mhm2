@@ -1,5 +1,5 @@
 -- // Dependencies
-local Aiming = loadstring(game:HttpGet("https://raw.githubusercontent.com/libaan151/mhm2/main/mhm%40!"))()
+local Aiming = loadstring(game:HttpGet(""))()
 -- // Services
 local UserInputService = game:GetService("UserInputService")
 local RunService = game:GetService("RunService")
